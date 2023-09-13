@@ -1,0 +1,57 @@
+body {
+  background-color: orange;
+}
+
+h1 {
+  color: red;
+  text-decoration: underline;
+  border: 5px solid red;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+img {
+  max-width: 500px;
+  max-height: 150px;
+  border: 10px solid white;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+}
+
+p {
+  color: red;
+  border: 5px solid red;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+a {
+  border: 3px solid blue;
+}
+
+.header-text {
+  background-color: white;
+  border: 10px solid red;
+}
+
+.log-in {
+  background-color: white;
+  border: 20px solid red;
+}
+
+.image-adverts {
+  border: 3px dotted yellow;
+  background-color: red;
+  padding: 15px;
+}
+  .image-adverts{
+    border: 3px dotted yellow;
+    background-color: red;
+    padding: 15px;
+
+  }
+  
